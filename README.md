@@ -1,2 +1,2 @@
 # jiralab
-Learn JIRA
+For learning JIRA.
